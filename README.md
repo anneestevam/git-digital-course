@@ -12,3 +12,4 @@
 ## Salvando alterações no Git
 * comando git log
 * comando git restore
+* comando git push
