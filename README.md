@@ -13,3 +13,4 @@
 * comando git log
 * comando git restore
 * comando git push
+* comando git pull
