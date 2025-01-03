@@ -9,5 +9,6 @@
 * comando git diff
 * comando git commit
 
-## Salvabdi alterações no Git
+## Salvando alterações no Git
 * comando git log
+* comando git restore
